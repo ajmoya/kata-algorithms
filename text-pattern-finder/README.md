@@ -3,10 +3,10 @@
 Dado un <b>string</b> formado por <b>(), [] y {}</b>, escribe un programa que indique si los <b>pares correspondientes son correctos.</b>
 
 
-## Ejemplos
-Entrada: [()]{}{[()()]} => CORRECTO
+## Output examples
+Input: [()]{}{[()()]} => CORRECTO
 
-Entrada: [(]{) => INCORRECTO
+Input: [(]{) => INCORRECTO
 
 
 ## How To Start in Visual Studio Code
