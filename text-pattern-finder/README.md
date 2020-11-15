@@ -9,8 +9,7 @@ Entrada: [()]{}{[()()]} => CORRECTO
 Entrada: [(]{) => INCORRECTO
 
 
-
-##How To Start in Visual Studio Code
+## How To Start in Visual Studio Code
 ### Typescript
 
 1. Install Deno 🦖
