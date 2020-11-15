@@ -4,17 +4,18 @@
 ## How To Start the projects in Visual Studio Code
 ### Typescript
 
-Install Deno 🦖
+1. Install Deno 🦖
 
-Recommended: Visual Studio Code Deno extension
+1. Recommended: Visual Studio Code Deno extension
 
-deno run app.ts
+1. deno run app.ts
+
 
 
 ### .NET 5 - C#
 
-Install .NET 5 😝
+1. Install .NET 5 😝
 
-Recommended C# for Visual Studio Code (powered by OmniSharp) extension
+1. Recommended C# for Visual Studio Code (powered by OmniSharp) extension
 
-dotnet run
+1. dotnet run
