@@ -1,7 +1,7 @@
 # kata-algorithms
 
 
-##How To Start the projects in Visual Studio Code
+## How To Start the projects in Visual Studio Code
 ### Typescript
 
 Install Deno 🦖
