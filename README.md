@@ -5,6 +5,7 @@
 ### Typescript
 
 Install Deno 🦖
+
 Recommended: Visual Studio Code Deno extension
 
 deno run app.ts
@@ -13,6 +14,7 @@ deno run app.ts
 ### .NET 5 - C#
 
 Install .NET 5 😝
+
 Recommended C# for Visual Studio Code (powered by OmniSharp) extension
 
 dotnet run
