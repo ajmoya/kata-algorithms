@@ -13,16 +13,18 @@ Entrada: [(]{) => INCORRECTO
 ##How To Start in Visual Studio Code
 ### Typescript
 
-Install Deno 🦖
-Recommended: Visual Studio Code Deno extension
+1. Install Deno 🦖
 
-deno run app.ts
+1. Recommended: Visual Studio Code Deno extension
+
+1. deno run app.ts
 
 
 ### .NET 5 - C#
 
-Install .NET 5 😝
-Recommended C# for Visual Studio Code (powered by OmniSharp) extension
+1. Install .NET 5 😝
 
-dotnet run
+1. Recommended C# for Visual Studio Code (powered by OmniSharp) extension
+
+1. dotnet run
 
